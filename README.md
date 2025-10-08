@@ -41,7 +41,7 @@ To run these applications, you need:
 
 3. Install the required dependencies:
    ```bash
-   pip install -r requirements.txt
+   pip install -r sdk_requirements.txt
    # For RAG applications:
    pip install -r rag_requirements.txt
    ```
@@ -52,10 +52,6 @@ To run these applications, you need:
    - Start the Ollama server
 
 ## Usage
-### Basic Web Application
-```bash
-python app.py
-```
 Navigate to `http://localhost:5000` to access the web interface.
 
 ### RAG Applications
@@ -65,7 +61,7 @@ python rag_local.py
 
 ### AI Web Application
 ```bash
-python ai_web_app.py
+python app.py
 ```
 
 ## Configuration
