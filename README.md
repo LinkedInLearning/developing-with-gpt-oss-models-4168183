@@ -3,6 +3,14 @@ This is the repository for the LinkedIn Learning course "Developing with gpt-oss
 
 ![Developing with GPT and OSS Models][lil-thumbnail-url] 
 
+## Course Description
+
+Stop sharing your data. Build and run powerful AI models on your own hardware using OpenAI's gpt-oss, Ollama, and LM Studio.
+
+Gain complete control over your processing and security with open-weights models.
+
+You will learn to set up gpt-oss locally, integrate it with VS Code for AI-accelerated coding, and implement a foundational Retrieval-Augmented Generation (RAG) system for custom, local knowledge. Build truly private AI solutions.
+
 This repository contains practical examples and implementations for building applications with GPT and open-source language models, including web applications, RAG (Retrieval Augmented Generation) systems, and local AI model integration.
 
 ## Project Contents
@@ -67,8 +75,13 @@ python app.py
 ## Configuration
 The applications are configured to work with local Ollama endpoints by default. You can modify the base URL and API settings in the respective Python files to work with different AI service providers.
 
+## Instructor
+
+Ronnie Sheer
+
+Software Developer and Instructor
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 
 [lil-course-url]: https://www.linkedin.com/learning/
-[lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D4E0DAQG0eDHsyOSqTA/learning-public-crop_675_1200/B4EZVdqqdwHUAY-/0/1741033220778?e=2147483647&v=beta&t=FxUDo6FA8W8CiFROwqfZKL_mzQhYx9loYLfjN-LNjgA
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D4E0DAQHn-FfLtj2FHw/learning-public-crop_675_1200/B4EZnKP9ZsKwAc-/0/1760034806803?e=2147483647&v=beta&t=NFOoOPnazojWbVM05kB_QvkGJwW4JguqtE1yaA7ZDCs
