@@ -1,4 +1,4 @@
-# Developing with GPT and OSS Models
+# Developing with gpt-oss Models
 This is the repository for the LinkedIn Learning course "Developing with GPT and OSS Models". The full course is available from [LinkedIn Learning][lil-course-url].
 
 ![Developing with GPT and OSS Models][lil-thumbnail-url] 
